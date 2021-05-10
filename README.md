@@ -1,5 +1,5 @@
 # pasgen
-Generate Every possible Combination from a word
+Generates Every possible Combination from a word
 
 
                                 Press ctrl + c to stop the Program.
