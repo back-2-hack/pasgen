@@ -55,5 +55,5 @@ try:
                         f.write("%s\n" % item)
                     print(f'{cmd[1]} created..')
 except KeyboardInterrupt:
-    print('\nStopping program...')
+    print('\nStopping program....')
     pass
